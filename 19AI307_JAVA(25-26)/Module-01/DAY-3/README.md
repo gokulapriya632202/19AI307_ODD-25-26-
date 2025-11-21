@@ -17,11 +17,10 @@ To write a Java program to calculate the factorial of a number using a for loop
 
 ## PROGRAM:
  ```
-/*
 Program to implement a Looping Statement using Java
 Developed by: GOKULA PRIYA P
 RegisterNumber:  212222040044
-*/
+
 ```
 
 ## SOURCE CODE:
@@ -44,4 +43,5 @@ class prog{
 
 ## RESULT:
 The program has been executed successfully and the desired output has been obtained.
+
 
